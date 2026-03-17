@@ -41,10 +41,16 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
-	
+
+![alt text](<WhatsApp Image 2026-03-17 at 2.16.28 PM (1).jpeg>)	
+
 Cross connection: CIRCUIT DIAGRAM:
 
+![alt text](<Screenshot 2026-03-17 154032.png>)
+
 Tabulation:2
+
+![alt text](<WhatsApp Image 2026-03-17 at 2.16.29 PM.jpeg>)
 
 RESULT:
 Thus the staircase wiring is connected and tested.
